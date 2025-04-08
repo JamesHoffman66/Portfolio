@@ -8,6 +8,10 @@ color: red;
 }
 #Projects
 {
+  clear: both;
+}
+#Projects
+{
   float: left;
   list-style: none;
   border-right: 50px;
