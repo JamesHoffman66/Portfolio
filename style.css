@@ -9,4 +9,6 @@ color: red;
 #Projects
 {
   float: left;
+  list-style: none;
+  border-right: 50px;
 }
