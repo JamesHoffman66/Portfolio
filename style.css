@@ -2,3 +2,11 @@ html
 {
 color: red;  
 }
+#Menu li 
+{
+  float: left;
+}
+#Projects
+{
+  float: left;
+}
